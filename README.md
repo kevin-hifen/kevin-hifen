@@ -9,3 +9,17 @@ I’m Kevin, passionate about Python, AI, and building practical IT services tha
  •🛠️ I’m always exploring—learning the latest frameworks, tools, and best practices to level up my work.
 
  •💡 My goal is to translate complex ideas into real-world solutions that make a difference.
+
+
+### [Hifen Project]
+#### Oliveyoung Data Analysis
+- [Oliveyoung-Filter](https://github.com/kevin-hifen/oliveyoung_filter) 
+- [Oliveyoung-Mention-Times](https://github.com/kevin-hifen/oliveyoung_mention_times)
+- [Oliveyoung-PPL-DoubleCheck](https://github.com/kevin-hifen/oliveyoung_ppl_double_check)
+
+#### Category Classification
+- [Video-Category-Classification](https://github.com/kevin-hifen/Video-Category-Classification)
+- [Youtuber-Category-Classification](https://github.com/kevin-hifen/Youtuber-Category-Classification)
+
+#### Brand-Classification
+- [Brand-Classification](https://github.com/kevin-hifen/Brand-Classification)
